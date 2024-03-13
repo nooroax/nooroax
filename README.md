@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nooroax
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Deep learning
 - 📫 How to reach me www.linkedin.com/in/harnoorgrewal
 - 😄 Pronouns: hello/world 
